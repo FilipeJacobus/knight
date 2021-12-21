@@ -41,10 +41,8 @@ curl --location --request GET 'localhost:9876/get-positions?player1=d4&player2=h
         "f3"
     ],
     "player2": [
-        "f2",
-        "e3",
-        "c3",
-        "b2"
+        "g3",
+        "f2"
     ]
 }
 ```
