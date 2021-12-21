@@ -1,0 +1,8 @@
+version: "3.5"
+services:
+  app:
+    container_name: knight
+    build: ./
+    restart: always
+    ports:
+      - "9876:9876"
